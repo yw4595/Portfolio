@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 4af50a1e506502e468b7d9ace78f9b6f
+timeCreated: 1682024095
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 三原色素材 (745)_9
+  - first:
+      213: 21300002
+    second: 三原色素材 (745)_5
+  - first:
+      213: 21300004
+    second: 三原色素材 (745)_6
+  - first:
+      213: 21300006
+    second: 三原色素材 (745)_10
+  - first:
+      213: 21300008
+    second: 三原色素材 (745)_2
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 三原色素材 (745)_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 26
+        width: 150
+        height: 236.9871
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5063567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 27.50646}
+        - {x: -13, y: 19.50646}
+        - {x: -14, y: 17.50646}
+        - {x: -12, y: 19.50646}
+        - {x: -12, y: 21.50646}
+        - {x: -11, y: 22.50646}
+      physicsShape:
+      - - {x: 60, y: -84.49354}
+        - {x: 63, y: -74.49354}
+        - {x: 63, y: -42.49354}
+        - {x: 64, y: -37.49354}
+        - {x: 64, y: -19.49354}
+        - {x: 63, y: -5.493538}
+        - {x: 60, y: 9.506462}
+        - {x: 51, y: 18.50646}
+        - {x: 55, y: 31.50646}
+        - {x: 57, y: 47.50646}
+        - {x: 47, y: 56.50646}
+        - {x: 38, y: 56.50646}
+        - {x: 33, y: 50.50646}
+        - {x: 30, y: 37.50646}
+        - {x: 27, y: 26.50646}
+        - {x: 43, y: 4.506462}
+        - {x: 27, y: -2.493538}
+        - {x: 19, y: 25.50646}
+        - {x: 15, y: 37.50646}
+        - {x: 7, y: 43.50646}
+        - {x: 0, y: 32.50646}
+        - {x: -5, y: 10.50646}
+        - {x: -18, y: -2.493538}
+        - {x: -25, y: -4.493538}
+        - {x: -36, y: 3.506462}
+        - {x: -52, y: -0.4935379}
+        - {x: -59, y: -21.49354}
+        - {x: -57, y: -33.49354}
+        - {x: -59, y: -32.49354}
+        - {x: -65, y: -30.49354}
+        - {x: -66, y: -34.49354}
+        - {x: -66, y: -44.49354}
+        - {x: -61, y: -57.49354}
+        - {x: -60, y: -77.49354}
+        - {x: -62, y: -89.49354}
+        - {x: -45, y: -102.4935}
+        - {x: -21, y: -112.4935}
+        - {x: -9, y: -113.4935}
+        - {x: 12, y: -113.4935}
+        - {x: 18, y: -112.4935}
+        - {x: 37, y: -103.4935}
+        - {x: 50, y: -96.49354}
+      - - {x: -24, y: 41.50646}
+        - {x: -30, y: 46.50646}
+        - {x: -37, y: 46.50646}
+        - {x: -50, y: 37.50646}
+        - {x: -50, y: 17.50646}
+        - {x: -44, y: 14.50646}
+        - {x: -32, y: 14.50646}
+        - {x: -24, y: 18.50646}
+        - {x: -21, y: 24.50646}
+        - {x: -21, y: 38.50646}
+      - - {x: 18, y: 99.50646}
+        - {x: 13, y: 96.50646}
+        - {x: 3, y: 82.50646}
+        - {x: -7, y: 67.50646}
+        - {x: -7, y: 51.50646}
+        - {x: 6, y: 51.50646}
+        - {x: 29, y: 66.50646}
+        - {x: 29, y: 92.50646}
+        - {x: 24, y: 99.50646}
+      - - {x: -17, y: 104.5065}
+        - {x: -23, y: 94.50646}
+        - {x: -23, y: 75.50646}
+        - {x: -15, y: 69.50646}
+        - {x: -8, y: 69.50646}
+        - {x: -6, y: 76.50646}
+        - {x: -6, y: 101.5065}
+        - {x: -8, y: 104.5065}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adb3356bb124401a2d8a757e0232c31
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 三原色素材 (745)_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 262
+        width: 150
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 91}
+        - {x: 11, y: 96}
+        - {x: 11, y: 111}
+        - {x: 15, y: 115}
+        - {x: 24, y: 115}
+        - {x: 30, y: 112}
+        - {x: 30, y: 103}
+        - {x: 29, y: 95}
+        - {x: 25, y: 91}
+      - - {x: -17, y: 86}
+        - {x: -20, y: 89}
+        - {x: -20, y: 105}
+        - {x: -16, y: 120}
+        - {x: 4, y: 120}
+        - {x: 5, y: 117}
+        - {x: 5, y: 95}
+        - {x: 1, y: 87}
+        - {x: -5, y: 86}
+      - - {x: 67, y: -120}
+        - {x: -75, y: -120}
+        - {x: -75, y: 50}
+        - {x: -61, y: 75}
+        - {x: 74, y: 75}
+        - {x: 75, y: 66}
+        - {x: 75, y: -112}
+      physicsShape:
+      - - {x: 71, y: 4}
+        - {x: 60, y: 24}
+        - {x: 55, y: 27}
+        - {x: 34, y: 1}
+        - {x: 29, y: 12}
+        - {x: 31, y: 31}
+        - {x: 30, y: 40}
+        - {x: 22, y: 53}
+        - {x: 17, y: 55}
+        - {x: 12, y: 55}
+        - {x: 10, y: 51}
+        - {x: 4, y: 27}
+        - {x: -8, y: 28}
+        - {x: -6, y: 34}
+        - {x: -4, y: 42}
+        - {x: -16, y: 49}
+        - {x: -23, y: 42}
+        - {x: -31, y: 26}
+        - {x: -16, y: 15}
+        - {x: -22, y: 1}
+        - {x: -30, y: -15}
+        - {x: -36, y: -6}
+        - {x: -45, y: -8}
+        - {x: -48, y: -15}
+        - {x: -50, y: -23}
+        - {x: -63, y: -38}
+        - {x: -64, y: -46}
+        - {x: -71, y: -70}
+        - {x: -71, y: -75}
+        - {x: -69, y: -81}
+        - {x: -53, y: -99}
+        - {x: -28, y: -113}
+        - {x: -18, y: -117}
+        - {x: 20, y: -117}
+        - {x: 42, y: -107}
+        - {x: 70, y: -75}
+        - {x: 71, y: -66}
+      - - {x: -50, y: 21}
+        - {x: -62, y: 10}
+        - {x: -62, y: -17}
+        - {x: -51, y: -17}
+        - {x: -46, y: -14}
+        - {x: -34, y: 4}
+        - {x: -34, y: 14}
+        - {x: -37, y: 21}
+      - - {x: -30, y: 53}
+        - {x: -35, y: 53}
+        - {x: -40, y: 48}
+        - {x: -40, y: 37}
+        - {x: -39, y: 35}
+        - {x: -31, y: 35}
+        - {x: -26, y: 38}
+        - {x: -26, y: 50}
+        - {x: -29, y: 52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e4b0e9741455896d6bd3f7aa5977f
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 三原色素材 (745)_6
+      rect:
+        serializedVersion: 2
+        x: 337.004
+        y: 266
+        width: 149.996
+        height: 240
+      alignment: 9
+      pivot: {x: 0.4999866, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.00201, y: 105}
+        - {x: -21.00201, y: 113}
+        - {x: -19.00201, y: 120}
+        - {x: -4.002007, y: 120}
+        - {x: -2.002007, y: 118}
+        - {x: -2.002007, y: 108}
+        - {x: -6.002007, y: 101}
+        - {x: -16.00201, y: 101}
+      - - {x: -67.00201, y: -120}
+        - {x: -75.00201, y: -109}
+        - {x: -75.00201, y: 83}
+        - {x: -56.00201, y: 93}
+        - {x: 6.997993, y: 93}
+        - {x: 6.997993, y: 114}
+        - {x: 10.99799, y: 120}
+        - {x: 25.99799, y: 120}
+        - {x: 30.99799, y: 104}
+        - {x: 30.99799, y: 92}
+        - {x: 29.99799, y: 88}
+        - {x: 58.99799, y: 78}
+        - {x: 74.99799, y: 25}
+        - {x: 74.99799, y: -78}
+        - {x: 62.99799, y: -120}
+      physicsShape:
+      - - {x: 60.99799, y: -55}
+        - {x: 66.99799, y: -40}
+        - {x: 66.99799, y: -2}
+        - {x: 59.99799, y: 17}
+        - {x: 49.99799, y: 24}
+        - {x: 39.99799, y: 15}
+        - {x: 28.99799, y: 23}
+        - {x: 26.99799, y: 41}
+        - {x: 18.99799, y: 48}
+        - {x: 11.99799, y: 48}
+        - {x: 6.997993, y: 43}
+        - {x: -8.002007, y: 40}
+        - {x: -12.00201, y: 48}
+        - {x: -18.00201, y: 48}
+        - {x: -23.00201, y: 46}
+        - {x: -30.00201, y: 37}
+        - {x: -30.00201, y: 0}
+        - {x: -49.00201, y: 9}
+        - {x: -41.00201, y: 11}
+        - {x: -35.00201, y: 18}
+        - {x: -36.00201, y: 27}
+        - {x: -50.00201, y: 34}
+        - {x: -54.00201, y: 31}
+        - {x: -66.00201, y: 10}
+        - {x: -66.00201, y: -1}
+        - {x: -64.00201, y: -13}
+        - {x: -58.00201, y: -11}
+        - {x: -53.00201, y: -24}
+        - {x: -55.00201, y: -45}
+        - {x: -61.00201, y: -68}
+        - {x: -66.00201, y: -81}
+        - {x: -66.00201, y: -89}
+        - {x: -45.00201, y: -106}
+        - {x: -25.00201, y: -115}
+        - {x: 11.99799, y: -115}
+        - {x: 32.99799, y: -110}
+        - {x: 43.99799, y: -104}
+        - {x: 58.99799, y: -88}
+      - - {x: -40.00201, y: 57}
+        - {x: -46.00201, y: 55}
+        - {x: -46.00201, y: 45}
+        - {x: -45.00201, y: 43}
+        - {x: -37.00201, y: 43}
+        - {x: -34.00201, y: 47}
+        - {x: -34.00201, y: 55}
+        - {x: -35.00201, y: 57}
+      - - {x: 37.99799, y: 59}
+        - {x: 36.99799, y: 57}
+        - {x: 36.99799, y: 49}
+        - {x: 37.99799, y: 49}
+        - {x: 40.99799, y: 48}
+        - {x: 43.99799, y: 48}
+        - {x: 45.99799, y: 50}
+        - {x: 46.99799, y: 54}
+        - {x: 42.99799, y: 59}
+      - - {x: -2.002007, y: 77}
+        - {x: -8.002007, y: 77}
+        - {x: -13.00201, y: 67}
+        - {x: -13.00201, y: 50}
+        - {x: -10.00201, y: 49}
+        - {x: -2.002007, y: 49}
+        - {x: 2.997993, y: 53}
+        - {x: 2.997993, y: 70}
+        - {x: 1.997993, y: 75}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c226e039dd14b6caa401ad157fce44d
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 三原色素材 (745)_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 149.9871
+        height: 240
+      alignment: 9
+      pivot: {x: 0.500043, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.00645, y: 95}
+        - {x: 11.00645, y: 98}
+        - {x: 11.00645, y: 116}
+        - {x: 13.00645, y: 120}
+        - {x: 28.00645, y: 120}
+        - {x: 31.00645, y: 117}
+        - {x: 31.00645, y: 100}
+        - {x: 29.00645, y: 95}
+        - {x: 65.00645, y: 95}
+        - {x: 75.00645, y: 68}
+        - {x: 75.00645, y: -105}
+        - {x: 69.00645, y: -114}
+        - {x: 63.00645, y: -120}
+        - {x: -53.99355, y: -120}
+        - {x: -74.99355, y: -114}
+        - {x: -74.99355, y: 34}
+        - {x: -57.99355, y: 95}
+      physicsShape:
+      - - {x: 66.00645, y: -53}
+        - {x: 65.00645, y: -48}
+        - {x: 57.00645, y: -27}
+        - {x: 53.00645, y: -22}
+        - {x: 48.00645, y: -1}
+        - {x: 42.00645, y: 10}
+        - {x: 25.00645, y: 7}
+        - {x: 19.00645, y: -1}
+        - {x: 10.00645, y: 9}
+        - {x: 3.006454, y: 12}
+        - {x: -2.993546, y: 14}
+        - {x: -8.993546, y: 14}
+        - {x: -21.99355, y: -2}
+        - {x: -22.99355, y: -11}
+        - {x: -37.99355, y: 7}
+        - {x: -46.99355, y: 4}
+        - {x: -50.99355, y: -3}
+        - {x: -49.99355, y: -32}
+        - {x: -52.99355, y: -45}
+        - {x: -66.99355, y: -68}
+        - {x: -66.99355, y: -77}
+        - {x: -49.99355, y: -96}
+        - {x: -33.99355, y: -108}
+        - {x: -13.99355, y: -117}
+        - {x: -9.993546, y: -118}
+        - {x: 11.00645, y: -118}
+        - {x: 24.00645, y: -117}
+        - {x: 45.00645, y: -106}
+        - {x: 56.00645, y: -96}
+        - {x: 66.00645, y: -78}
+      - - {x: -57.99355, y: 23}
+        - {x: -60.99355, y: 16}
+        - {x: -60.99355, y: 4}
+        - {x: -56.99355, y: 2}
+        - {x: -51.99355, y: 2}
+        - {x: -48.99355, y: 5}
+        - {x: -48.99355, y: 19}
+        - {x: -49.99355, y: 23}
+      - - {x: 2.006454, y: 54}
+        - {x: -17.99355, y: 54}
+        - {x: -18.99355, y: 52}
+        - {x: -18.99355, y: 33}
+        - {x: -8.993546, y: 25}
+        - {x: 5.006454, y: 25}
+        - {x: 10.00645, y: 29}
+        - {x: 11.00645, y: 30}
+        - {x: 11.00645, y: 48}
+      - - {x: -2.993546, y: 76}
+        - {x: -4.993546, y: 71}
+        - {x: -2.993546, y: 66}
+        - {x: 0.006454468, y: 66}
+        - {x: 2.006454, y: 68}
+        - {x: 3.006454, y: 73}
+        - {x: 0.006454468, y: 76}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b663786192034246bb6ad9ae035eadc7
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 三原色素材 (745)_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 262
+        width: 150
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 82}
+        - {x: -24, y: 108}
+        - {x: -24, y: 114}
+        - {x: -18, y: 116}
+        - {x: -8, y: 116}
+        - {x: -8, y: 116}
+        - {x: 1, y: 120}
+        - {x: 43, y: 120}
+        - {x: 75, y: 58}
+        - {x: 75, y: -120}
+        - {x: -75, y: -120}
+      physicsShape:
+      - - {x: 62, y: -69}
+        - {x: 52, y: -51}
+        - {x: 60, y: -13}
+        - {x: 59, y: -2}
+        - {x: 57, y: 9}
+        - {x: 47, y: 26}
+        - {x: 51, y: 37}
+        - {x: 47, y: 52}
+        - {x: 35, y: 45}
+        - {x: 32, y: 35}
+        - {x: -1, y: 66}
+        - {x: -9, y: 66}
+        - {x: -14, y: 53}
+        - {x: -12, y: 29}
+        - {x: -24, y: 25}
+        - {x: -29, y: 9}
+        - {x: -36, y: 24}
+        - {x: -29, y: 37}
+        - {x: -28, y: 47}
+        - {x: -38, y: 53}
+        - {x: -47, y: 45}
+        - {x: -50, y: 41}
+        - {x: -50, y: 25}
+        - {x: -68, y: 1}
+        - {x: -68, y: -31}
+        - {x: -65, y: -36}
+        - {x: -60, y: -40}
+        - {x: -54, y: -61}
+        - {x: -68, y: -82}
+        - {x: -68, y: -96}
+        - {x: -63, y: -100}
+        - {x: -44, y: -112}
+        - {x: -28, y: -118}
+        - {x: 17, y: -118}
+        - {x: 28, y: -113}
+        - {x: 47, y: -103}
+        - {x: 62, y: -92}
+      - - {x: 13, y: 94}
+        - {x: 11, y: 93}
+        - {x: 11, y: 76}
+        - {x: 13, y: 75}
+        - {x: 21, y: 75}
+        - {x: 21, y: 91}
+        - {x: 18, y: 94}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bebd539f02f41968162db059d43b731
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

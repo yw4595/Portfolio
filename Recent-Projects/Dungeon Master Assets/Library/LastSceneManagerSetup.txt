@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "E:/\u684C\u9762/K2\u9879\u76EE\u6C47\u603B-\u5218\u7D20\u8A00/VGame-K2/Assets/Scenes/Main.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

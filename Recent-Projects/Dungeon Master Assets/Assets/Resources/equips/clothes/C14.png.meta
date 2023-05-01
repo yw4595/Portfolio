@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: c40a58c1eca789347adf15410cea4b20
+timeCreated: 1682024091
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: C14
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 128
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: C14
+      rect:
+        serializedVersion: 2
+        x: 5.105573
+        y: 8.07612
+        width: 114.8677
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5127154, y: 0.4869392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.53941, y: -28.5}
+        - {x: -57.53941, y: -25.5}
+        - {x: -57.53941, y: 13.5}
+        - {x: -47.53941, y: 48.5}
+        - {x: -20.53941, y: 57.5}
+        - {x: 25.46059, y: 57.5}
+        - {x: 56.46059, y: 25.5}
+        - {x: 57.46059, y: 20.5}
+        - {x: 57.46059, y: -34.5}
+        - {x: 7.460587, y: -57.5}
+        - {x: -24.53941, y: -57.5}
+        - {x: -35.53941, y: -49.5}
+        - {x: -41.53941, y: -43.5}
+      physicsShape:
+      - - {x: 44.46059, y: -31.5}
+        - {x: 53.46059, y: -23.5}
+        - {x: 53.46059, y: -9.5}
+        - {x: 52.46059, y: 2.5}
+        - {x: 44.46059, y: 31.5}
+        - {x: 30.46059, y: 43.5}
+        - {x: 14.46059, y: 50.5}
+        - {x: 7.460587, y: 55.5}
+        - {x: -4.539413, y: 55.5}
+        - {x: -15.53941, y: 52.5}
+        - {x: -39.53941, y: 33.5}
+        - {x: -42.53941, y: 29.5}
+        - {x: -44.53941, y: 25.5}
+        - {x: -46.53941, y: -0.5}
+        - {x: -52.53941, y: -17.5}
+        - {x: -48.53941, y: -25.5}
+        - {x: -37.53941, y: -39.5}
+        - {x: -27.53941, y: -47.5}
+        - {x: -18.53941, y: -41.5}
+        - {x: -14.53941, y: -52.5}
+        - {x: -8.539413, y: -52.5}
+        - {x: 18.46059, y: -43.5}
+        - {x: 25.46059, y: -34.5}
+        - {x: 24.46059, y: -30.5}
+        - {x: 24.46059, y: -27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4178947ead14528bd708894e35cf77f
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

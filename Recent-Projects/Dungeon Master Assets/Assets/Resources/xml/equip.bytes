@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Goods>
+  <Item id="1000" name="绿宝石戒指" type="1" quality="白色普通" value="6" att="基础攻击力+6" gold="100" res="equips/ornaments/O11" context="戴在身上或许会有好运。"/>
+  <Item id="1001" name="紫犬牙吊坠" type="1" quality="白色普通" value="9" att="基础攻击力+9" gold="100" res="equips/ornaments/O12" context="很精致的小吊坠，让人爱不释手。"/>
+  <Item id="1002" name="黄宝石项链" type="1" quality="白色普通" value="12" att="基础攻击力+12" gold="100" res="equips/ornaments/O13" context="沉甸甸的宝石让人感到安心。"/>
+  <Item id="1003" name="红宝石项链" type="1" quality="白色普通" value="15" att="基础攻击力+15" gold="100" res="equips/ornaments/O14" context="护身符一般的项链。"/>
+  <Item id="1004" name="红宝石戒指" type="1" quality="绿色稀有" value="18" att="基础攻击力+18" gold="200" res="equips/ornaments/O21" context="带上以后会发光哦。"/>
+  <Item id="1005" name="红虎牙吊坠" type="1" quality="绿色稀有" value="20" att="基础攻击力+20" gold="200" res="equips/ornaments/O22" context="握在手里就能感受到力量。"/>
+  <Item id="1006" name="银色小吊坠" type="1" quality="绿色稀有" value="22" att="基础攻击力+22" gold="200" res="equips/ornaments/O23" context="闪闪发光，让人爱不释手。"/>
+  <Item id="1007" name="绿琥珀戒指" type="1" quality="蓝色史诗" value="28" att="基础攻击力+28" gold="400" res="equips/ornaments/O31" context="这可是灭霸也想要的高级货。"/>
+  <Item id="1008" name="绿爱心项链" type="1" quality="蓝色史诗" value="33" att="基础攻击力+33" gold="400" res="equips/ornaments/O32" context="某段姻缘的定情信物。"/>
+  <Item id="1009" name="红钻石项链" type="1" quality="紫色传奇" value="40" att="基础攻击力+40" gold="600" res="equips/ornaments/O41" context="精雕细琢的奢侈品。"/>
+  <Item id="2000" name="金狮牙吊坠" type="1" quality="金色传说" value="50" att="基础攻击力+50" gold="1000" res="equips/ornaments/O51" context="极其名贵的吊坠，价值不菲。"/>
+  <Item id="2001" name="紫金石项链" type="1" quality="金色传说" value="55" att="基础攻击力+55" gold="1000" res="equips/ornaments/O52" context="神话传说中才有的项链。"/>
+
+  <Item id="1010" name="轻便护甲" type="2" quality="白色普通" value="50" att="基础生命值+50" gold="100" res="equips/clothes/C11" context="能加血就是好护甲。"/>
+  <Item id="1011" name="橙布护甲" type="2" quality="白色普通" value="50" att="基础生命值+50" gold="100" res="equips/clothes/C12" context="橙色布料制作，好看但有点单薄。"/>
+  <Item id="1012" name="绿布护甲" type="2" quality="白色普通" value="50" att="基础生命值+50" gold="100" res="equips/clothes/C13" context="绿色布料制作，好看但有点单薄。"/>
+  <Item id="1013" name="红布护甲" type="2" quality="白色普通" value="50" att="基础生命值+50" gold="100" res="equips/clothes/C14" context="红色布料制作，好看但有点单薄。"/>
+  <Item id="1014" name="紫色护甲" type="2" quality="绿色稀有" value="100" att="基础生命值+100" gold="200" res="equips/clothes/C21" context="紫色玄铁加持，结实耐用。"/>
+  <Item id="1015" name="坚固盔甲" type="2" quality="绿色稀有" value="100" att="基础生命值+100" gold="200" res="equips/clothes/C22" context="听名字就知道挺结实的。"/>
+  <Item id="1016" name="坚硬石甲" type="2" quality="绿色稀有" value="100" att="基础生命值+100" gold="200" res="equips/clothes/C23" context="结实耐用，就是…有点沉。"/>
+  <Item id="1017" name="兽皮护甲" type="2" quality="蓝色史诗" value="150" att="基础生命值+150" gold="400" res="equips/clothes/C31" context="轻便且坚硬的护甲。"/>
+  <Item id="1018" name="信仰之力" type="2" quality="蓝色史诗" value="150" att="基础生命值+150" gold="400" res="equips/clothes/C32" context="信仰让你无所畏惧。"/>
+  <Item id="1019" name="龙鳞护甲" type="2" quality="紫色传奇" value="200" att="基础生命值+200" gold="600" res="equips/clothes/C41" context="穿上它，仿佛武装到了牙齿。"/>
+  <Item id="2002" name="钛合金甲" type="2" quality="金色传说" value="250" att="基础生命值+250" gold="1000" res="equips/clothes/C51" context="钢铁侠一直想买来着。"/>
+  <Item id="2003" name="金刚护甲" type="2" quality="金色传说" value="250" att="基础生命值+250" gold="1000" res="equips/clothes/C52" context="大威天龙！"/>
+
+  <Item id="1020" name="小小布鞋" type="3" quality="白色普通" value="10" att="移动速度+10" gold="100" res="equips/shoes/S11" context="好像跑的更快了。"/>
+  <Item id="1021" name="硬质皮靴" type="3" quality="白色普通" value="10" att="移动速度+10" gold="100" res="equips/shoes/S12" context="结实耐用。"/>
+  <Item id="1022" name="铁质皮靴" type="3" quality="白色普通" value="10" att="移动速度+10" gold="100" res="equips/shoes/S13" context="坚硬，但好像有点沉。"/>
+  <Item id="1023" name="日常便鞋" type="3" quality="白色普通" value="10" att="移动速度+10" gold="100" res="equips/shoes/S14" context="穿起来舒服多了。"/>
+  <Item id="1024" name="加厚棉鞋" type="3" quality="绿色稀有" value="20" att="移动速度+20" gold="200" res="equips/shoes/S21" context="冬天里的一把火。"/>
+  <Item id="1025" name="红纹便鞋" type="3" quality="绿色稀有" value="20" att="移动速度+20" gold="200" res="equips/shoes/S22" context="穿上感觉充满力量。"/>
+  <Item id="1026" name="紫皮便鞋" type="3" quality="绿色稀有" value="20" att="移动速度+20" gold="200" res="equips/shoes/S23" context="紫气东来。"/>
+  <Item id="1027" name="坚硬铁鞋" type="3" quality="蓝色史诗" value="30" att="移动速度+30" gold="400" res="equips/shoes/S31" context="品质保证，甩开怪物不费力。"/>
+  <Item id="1028" name="快速铁鞋" type="3" quality="蓝色史诗" value="30" att="移动速度+30" gold="400" res="equips/shoes/S32" context="快就完事了。"/>
+  <Item id="1029" name="武者便靴" type="3" quality="紫色传奇" value="40" att="移动速度+40" gold="600" res="equips/shoes/S41" context="幸运的人，幸运的鞋。"/>
+  <Item id="2004" name="镀金长靴" type="3" quality="金色传说" value="50" att="移动速度+50" gold="1000" res="equips/shoes/S51" context="闪闪发光中快的飞起。"/>
+  <Item id="2005" name="金色飞鞋" type="3" quality="金色传说" value="50" att="移动速度+50" gold="1000" res="equips/shoes/S52" context="穿上就是这个世界上最靓的仔。"/>
+
+</Goods>

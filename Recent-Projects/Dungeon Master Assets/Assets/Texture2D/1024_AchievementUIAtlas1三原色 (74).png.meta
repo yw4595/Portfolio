@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: de897f7fab732d0468b20a0da569a627
+timeCreated: 1682024089
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 1024_AchievementUIAtlas1三原色 (74)_4
+  - first:
+      213: 21300002
+    second: 1024_AchievementUIAtlas1三原色 (74)_5
+  - first:
+      213: 21300004
+    second: 1024_AchievementUIAtlas1三原色 (74)_11
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1024_AchievementUIAtlas1三原色 (74)_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 895
+        width: 91
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 49}
+        - {x: 1.5, y: 57}
+        - {x: 45.5, y: 57}
+        - {x: 45.5, y: -57}
+        - {x: -45.5, y: -57}
+        - {x: -45.5, y: 48}
+        - {x: -41.5, y: 57}
+        - {x: -5.5, y: 57}
+      physicsShape:
+      - - {x: 33.5, y: 51}
+        - {x: 26.5, y: 57}
+        - {x: 5.5, y: 57}
+        - {x: 22.5, y: 43}
+        - {x: 20.5, y: 27}
+        - {x: 34.5, y: 8}
+        - {x: 34.5, y: -47}
+        - {x: 30.5, y: -50}
+        - {x: -35.5, y: -48}
+        - {x: -36.5, y: 9.999999}
+        - {x: -24.5, y: 23}
+        - {x: -23.5, y: 42}
+        - {x: -8.5, y: 56}
+        - {x: -10.5, y: 57}
+        - {x: -31.5, y: 57}
+        - {x: -39.5, y: 55}
+        - {x: -45.5, y: 35}
+        - {x: -45.5, y: -52}
+        - {x: -40.5, y: -57}
+        - {x: 37.5, y: -57}
+        - {x: 42.5, y: -52}
+        - {x: 42.5, y: 37}
+      - - {x: -34.5, y: 32}
+        - {x: -35.5, y: 35}
+        - {x: -38.5, y: 28}
+        - {x: -37.5, y: 27}
+        - {x: -36.5, y: 28}
+      - - {x: 32.5, y: 35}
+        - {x: 31.5, y: 32}
+        - {x: 34.5, y: 27}
+        - {x: 36.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33789da2f5b4ae197a77c3faeedafb8
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1024_AchievementUIAtlas1三原色 (74)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 336
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -161, y: -37.5}
+        - {x: -168, y: -24.5}
+        - {x: -168, y: 22.5}
+        - {x: -152, y: 44.5}
+        - {x: 168, y: 44.5}
+        - {x: 168, y: -44.5}
+        - {x: -155, y: -44.5}
+      physicsShape:
+      - - {x: 163, y: -44.5}
+        - {x: 168, y: -42.5}
+        - {x: 168, y: -30.5}
+        - {x: 167, y: -28.5}
+        - {x: 168, y: -7.5}
+        - {x: 168, y: 44.5}
+        - {x: 152, y: 44.5}
+        - {x: 151, y: 43.5}
+        - {x: 29, y: 44.5}
+        - {x: -144, y: 44.5}
+        - {x: -168, y: 27.5}
+        - {x: -168, y: -28.5}
+        - {x: -155, y: -41.5}
+        - {x: -140, y: -44.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0005610b9b734c63bf3ab72f48bbfe65
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1024_AchievementUIAtlas1三原色 (74)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 893
+        width: 227.9239
+        height: 51
+      alignment: 9
+      pivot: {x: 0.500167, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.9619, y: 25.5}
+        - {x: -94.96194, y: 25.5}
+        - {x: 103.0381, y: 25.5}
+        - {x: 114.0381, y: 19.5}
+        - {x: 114.0381, y: -25.5}
+        - {x: -100.9619, y: -25.5}
+        - {x: -113.9619, y: -15.5}
+        - {x: -113.9619, y: 25.5}
+      physicsShape:
+      - - {x: 61.03806, y: -25.5}
+        - {x: 80.03806, y: -16.5}
+        - {x: 111.0381, y: -3.5}
+        - {x: 112.0381, y: -1.5}
+        - {x: 112.0381, y: 2.5}
+        - {x: 110.0381, y: 3.5}
+        - {x: 81.03806, y: 18.5}
+        - {x: 70.03806, y: 19.5}
+        - {x: 59.03806, y: 25.5}
+        - {x: 49.03806, y: 25.5}
+        - {x: 49.03806, y: 24.5}
+        - {x: -21.96194, y: 25.5}
+        - {x: -62.96194, y: 25.5}
+        - {x: -81.96194, y: 17.5}
+        - {x: -111.9619, y: 3.5}
+        - {x: -111.9619, y: -1.5}
+        - {x: -110.9619, y: -3.5}
+        - {x: -80.96194, y: -17.5}
+        - {x: -67.96194, y: -20.5}
+        - {x: -57.96194, y: -25.5}
+        - {x: -49.96194, y: -25.5}
+        - {x: -49.96194, y: -24.5}
+        - {x: 49.03806, y: -24.5}
+        - {x: 51.03806, y: -25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59440da1e3e64cfb80b5df435f28ddc2
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

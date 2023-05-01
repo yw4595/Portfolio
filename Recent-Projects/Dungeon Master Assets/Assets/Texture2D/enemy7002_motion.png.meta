@@ -1,0 +1,1411 @@
+fileFormatVersion: 2
+guid: 82e62515fb27ebb409a8f94c7c8db79a
+timeCreated: 1682024092
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: enemy7002_motion_1
+  - first:
+      213: 21300002
+    second: enemy7002_motion_4
+  - first:
+      213: 21300004
+    second: enemy7002_motion_12
+  - first:
+      213: 21300006
+    second: enemy7002_motion_6
+  - first:
+      213: 21300008
+    second: enemy7002_motion_13
+  - first:
+      213: 21300010
+    second: enemy7002_motion_8
+  - first:
+      213: 21300012
+    second: enemy7002_motion_0
+  - first:
+      213: 21300014
+    second: enemy7002_motion_5
+  - first:
+      213: 21300016
+    second: enemy7002_motion_9
+  - first:
+      213: 21300018
+    second: enemy7002_motion_2
+  - first:
+      213: 21300020
+    second: enemy7002_motion_3
+  - first:
+      213: 21300022
+    second: enemy7002_motion_15
+  - first:
+      213: 21300024
+    second: enemy7002_motion_10
+  - first:
+      213: 21300026
+    second: enemy7002_motion_7
+  - first:
+      213: 21300028
+    second: enemy7002_motion_11
+  - first:
+      213: 21300030
+    second: enemy7002_motion_14
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 600
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy7002_motion_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 450
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -75}
+        - {x: -75, y: -75}
+        - {x: -75, y: 23}
+        - {x: -45, y: 75}
+        - {x: 70, y: 75}
+        - {x: 75, y: 73}
+      physicsShape:
+      - - {x: 68, y: -38}
+        - {x: 65, y: -32}
+        - {x: 57, y: -23}
+        - {x: 45, y: -10}
+        - {x: 39, y: 11}
+        - {x: 37, y: 17}
+        - {x: 52, y: 27}
+        - {x: 52, y: 40}
+        - {x: 62, y: 46}
+        - {x: 61, y: 49}
+        - {x: 58, y: 62}
+        - {x: 41, y: 62}
+        - {x: 32, y: 71}
+        - {x: 12, y: 74}
+        - {x: 5, y: 75}
+        - {x: -3, y: 75}
+        - {x: -6, y: 68}
+        - {x: -14, y: 63}
+        - {x: -19, y: 56}
+        - {x: -14, y: 43}
+        - {x: -11, y: 38}
+        - {x: -4, y: 26}
+        - {x: -3, y: 14}
+        - {x: -12, y: -7}
+        - {x: -27, y: -7}
+        - {x: -30, y: -15}
+        - {x: -46, y: -19}
+        - {x: -52, y: -27}
+        - {x: -54, y: -41}
+        - {x: -50, y: -44}
+        - {x: -39, y: -53}
+        - {x: -56, y: -49}
+        - {x: -67, y: -48}
+        - {x: -70, y: -54}
+        - {x: -70, y: -62}
+        - {x: -44, y: -74}
+        - {x: -26, y: -73}
+        - {x: -12, y: -64}
+        - {x: 9, y: -75}
+        - {x: 45, y: -75}
+        - {x: 56, y: -72}
+        - {x: 65, y: -65}
+        - {x: 68, y: -60}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a8dc64fa494779a996d4d2cb76b00d
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 75}
+        - {x: -20, y: 75}
+        - {x: 66, y: 75}
+        - {x: 75, y: 62}
+        - {x: 75, y: -75}
+        - {x: -75, y: -75}
+        - {x: -75, y: 7}
+        - {x: -35, y: 71}
+        - {x: -48, y: 71}
+        - {x: -50, y: 72}
+        - {x: -51, y: 75}
+      physicsShape:
+      - - {x: 57, y: -22}
+        - {x: 47, y: -18}
+        - {x: 46, y: -5}
+        - {x: 39, y: 13}
+        - {x: 36, y: 19}
+        - {x: 48, y: 22}
+        - {x: 54, y: 30}
+        - {x: 64, y: 49}
+        - {x: 60, y: 62}
+        - {x: 43, y: 62}
+        - {x: 38, y: 68}
+        - {x: 28, y: 71}
+        - {x: 15, y: 71}
+        - {x: 1, y: 75}
+        - {x: -4, y: 70}
+        - {x: -16, y: 59}
+        - {x: -14, y: 41}
+        - {x: -4, y: 33}
+        - {x: 0, y: 17}
+        - {x: -11, y: -2}
+        - {x: -25, y: -10}
+        - {x: -29, y: -17}
+        - {x: -46, y: -21}
+        - {x: -55, y: -32}
+        - {x: -54, y: -41}
+        - {x: -53, y: -45}
+        - {x: -67, y: -51}
+        - {x: -67, y: -62}
+        - {x: -41, y: -75}
+        - {x: -22, y: -72}
+        - {x: -7, y: -63}
+        - {x: 1, y: -72}
+        - {x: 9, y: -75}
+        - {x: 46, y: -75}
+        - {x: 62, y: -69}
+        - {x: 68, y: -58}
+        - {x: 68, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a96ee2bb8754d898f7cef3268b2063f
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 69}
+        - {x: -53, y: 73}
+        - {x: -52, y: 75}
+        - {x: 46, y: 75}
+        - {x: 51, y: 75}
+        - {x: 69, y: 75}
+        - {x: 75, y: 37}
+        - {x: 75, y: -75}
+        - {x: -75, y: -75}
+        - {x: -75, y: -11}
+        - {x: -51, y: 49}
+        - {x: -40, y: 69}
+        - {x: -37, y: 71}
+        - {x: -40, y: 71}
+      physicsShape:
+      - - {x: 71, y: -31}
+        - {x: 60, y: -18}
+        - {x: 51, y: -13}
+        - {x: 35, y: -7}
+        - {x: 28, y: 12}
+        - {x: 20, y: 18}
+        - {x: 34, y: 30}
+        - {x: 31, y: 45}
+        - {x: 37, y: 54}
+        - {x: 38, y: 56}
+        - {x: 31, y: 59}
+        - {x: 29, y: 68}
+        - {x: -5, y: 68}
+        - {x: -21, y: 64}
+        - {x: -31, y: 66}
+        - {x: -36, y: 57}
+        - {x: -29, y: 50}
+        - {x: -37, y: 49}
+        - {x: -44, y: 44}
+        - {x: -36, y: 31}
+        - {x: -33, y: 26}
+        - {x: -25, y: 23}
+        - {x: -18, y: 2}
+        - {x: -29, y: -13}
+        - {x: -65, y: -33}
+        - {x: -68, y: -36}
+        - {x: -68, y: -45}
+        - {x: -67, y: -49}
+        - {x: -61, y: -52}
+        - {x: -62, y: -59}
+        - {x: -45, y: -70}
+        - {x: -36, y: -74}
+        - {x: -16, y: -71}
+        - {x: 8, y: -75}
+        - {x: 35, y: -75}
+        - {x: 51, y: -74}
+        - {x: 64, y: -67}
+        - {x: 67, y: -64}
+        - {x: 71, y: -54}
+      - - {x: -38, y: -52}
+        - {x: -44, y: -48}
+        - {x: -48, y: -47}
+        - {x: -43, y: -42}
+        - {x: -42, y: -43}
+        - {x: -39, y: -43}
+        - {x: -37, y: -45}
+        - {x: -35, y: -49}
+        - {x: -32, y: -51}
+        - {x: -32, y: -52}
+        - {x: -35, y: -53}
+        - {x: -36, y: -52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb388c40514abea314eb7d237f2b95
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 71}
+        - {x: -57, y: 74}
+        - {x: -57, y: 75}
+        - {x: -20, y: 75}
+        - {x: -20, y: 74}
+        - {x: -22, y: 72}
+        - {x: -25, y: 71}
+      - - {x: -66, y: -75}
+        - {x: -75, y: -69}
+        - {x: -75, y: -11}
+        - {x: -25, y: 63}
+        - {x: -12, y: 75}
+        - {x: 67, y: 75}
+        - {x: 75, y: 68}
+        - {x: 75, y: -75}
+      physicsShape:
+      - - {x: 70, y: -40}
+        - {x: 67, y: -31}
+        - {x: 57, y: -22}
+        - {x: 47, y: -16}
+        - {x: 41, y: 11}
+        - {x: 40, y: 16}
+        - {x: 56, y: 27}
+        - {x: 55, y: 40}
+        - {x: 63, y: 44}
+        - {x: 66, y: 51}
+        - {x: 62, y: 65}
+        - {x: 43, y: 64}
+        - {x: 38, y: 67}
+        - {x: 33, y: 73}
+        - {x: 9, y: 75}
+        - {x: -1, y: 75}
+        - {x: -3, y: 72}
+        - {x: -4, y: 66}
+        - {x: -13, y: 61}
+        - {x: -16, y: 57}
+        - {x: -17, y: 55}
+        - {x: -14, y: 42}
+        - {x: 2, y: 18}
+        - {x: -26, y: -9}
+        - {x: -55, y: -21}
+        - {x: -58, y: -25}
+        - {x: -58, y: -32}
+        - {x: -57, y: -35}
+        - {x: -54, y: -43}
+        - {x: -44, y: -49}
+        - {x: -63, y: -48}
+        - {x: -70, y: -51}
+        - {x: -70, y: -58}
+        - {x: -68, y: -65}
+        - {x: -45, y: -73}
+        - {x: -34, y: -73}
+        - {x: -22, y: -71}
+        - {x: -8, y: -62}
+        - {x: 0, y: -71}
+        - {x: 10, y: -75}
+        - {x: 44, y: -75}
+        - {x: 63, y: -69}
+        - {x: 69, y: -60}
+        - {x: 70, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958f6a6b659048968a4aaad5597da31b
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 72}
+        - {x: -50, y: 75}
+        - {x: -32, y: 75}
+        - {x: -32, y: 74}
+        - {x: -34, y: 72}
+      - - {x: -4, y: 72}
+        - {x: -5, y: 75}
+        - {x: 53, y: 75}
+        - {x: 53, y: 74}
+        - {x: 51, y: 72}
+        - {x: 7, y: 71}
+      - - {x: -63, y: -75}
+        - {x: -74, y: -64}
+        - {x: -74, y: -61}
+        - {x: -73, y: -58}
+        - {x: -75, y: -59}
+        - {x: -75, y: -47}
+        - {x: -74, y: -47}
+        - {x: -72, y: -49}
+        - {x: -72, y: -54}
+        - {x: -64, y: -25}
+        - {x: -54, y: -29}
+        - {x: -53, y: -29}
+        - {x: -66, y: -22}
+        - {x: -73, y: -17}
+        - {x: -74, y: -15}
+        - {x: -74, y: 33}
+        - {x: -40, y: 55}
+        - {x: 29, y: 55}
+        - {x: 75, y: 1}
+        - {x: 75, y: -75}
+      physicsShape:
+      - - {x: 59, y: -18}
+        - {x: 51, y: -15}
+        - {x: 29, y: 5}
+        - {x: 4, y: 6}
+        - {x: 7, y: 21}
+        - {x: -4, y: 30}
+        - {x: -3, y: 40}
+        - {x: -6, y: 43}
+        - {x: -7, y: 43}
+        - {x: -14, y: 47}
+        - {x: -20, y: 47}
+        - {x: -22, y: 46}
+        - {x: -33, y: 38}
+        - {x: -48, y: 31}
+        - {x: -53, y: 23}
+        - {x: -64, y: 16}
+        - {x: -65, y: 13}
+        - {x: -65, y: 5}
+        - {x: -62, y: 4}
+        - {x: -65, y: -11}
+        - {x: -65, y: -13}
+        - {x: -48, y: -24}
+        - {x: -40, y: -20}
+        - {x: -36, y: -28}
+        - {x: -34, y: -30}
+        - {x: -38, y: -41}
+        - {x: -41, y: -45}
+        - {x: -57, y: -51}
+        - {x: -51, y: -63}
+        - {x: -30, y: -72}
+        - {x: -9, y: -70}
+        - {x: 2, y: -63}
+        - {x: 10, y: -73}
+        - {x: 19, y: -75}
+        - {x: 41, y: -75}
+        - {x: 64, y: -71}
+        - {x: 72, y: -60}
+        - {x: 72, y: -33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8d58d768da43de88f19f8a508b6310
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 75}
+        - {x: -17, y: 75}
+        - {x: 68, y: 75}
+        - {x: 73, y: 70}
+        - {x: 75, y: 57}
+        - {x: 75, y: -75}
+        - {x: -75, y: -75}
+        - {x: -75, y: 48}
+        - {x: -50, y: 75}
+        - {x: -46, y: 75}
+        - {x: -24, y: 75}
+      physicsShape:
+      - - {x: 68, y: -37}
+        - {x: 57, y: -22}
+        - {x: 36, y: -13}
+        - {x: 40, y: 3}
+        - {x: 39, y: 11}
+        - {x: 38, y: 17}
+        - {x: 48, y: 22}
+        - {x: 54, y: 29}
+        - {x: 53, y: 41}
+        - {x: 64, y: 46}
+        - {x: 62, y: 53}
+        - {x: 56, y: 63}
+        - {x: 42, y: 60}
+        - {x: 36, y: 70}
+        - {x: 25, y: 71}
+        - {x: 2, y: 75}
+        - {x: 0, y: 75}
+        - {x: -3, y: 72}
+        - {x: -3, y: 67}
+        - {x: -13, y: 63}
+        - {x: -18, y: 56}
+        - {x: -14, y: 41}
+        - {x: -3, y: 31}
+        - {x: 0, y: 17}
+        - {x: -17, y: -3}
+        - {x: -62, y: 1}
+        - {x: -67, y: -4}
+        - {x: -67, y: -8}
+        - {x: -57, y: -19}
+        - {x: -50, y: -22}
+        - {x: -38, y: -15}
+        - {x: -28, y: -18}
+        - {x: -43, y: -19}
+        - {x: -50, y: -27}
+        - {x: -50, y: -29}
+        - {x: -51, y: -43}
+        - {x: -53, y: -48}
+        - {x: -60, y: -48}
+        - {x: -67, y: -53}
+        - {x: -67, y: -62}
+        - {x: -44, y: -73}
+        - {x: -29, y: -75}
+        - {x: -7, y: -65}
+        - {x: 5, y: -74}
+        - {x: 8, y: -75}
+        - {x: 44, y: -75}
+        - {x: 53, y: -73}
+        - {x: 67, y: -65}
+        - {x: 68, y: -59}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95acf661d214e86991f4257c0c6061e
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: -75}
+        - {x: -75, y: -75}
+        - {x: -75, y: -5}
+        - {x: -61, y: 59}
+        - {x: -25, y: 75}
+        - {x: 75, y: 75}
+        - {x: 75, y: -74}
+      physicsShape:
+      - - {x: 57, y: -22}
+        - {x: 47, y: -18}
+        - {x: 46, y: -5}
+        - {x: 39, y: 13}
+        - {x: 36, y: 19}
+        - {x: 48, y: 22}
+        - {x: 54, y: 30}
+        - {x: 64, y: 49}
+        - {x: 60, y: 62}
+        - {x: 43, y: 62}
+        - {x: 36, y: 71}
+        - {x: 16, y: 72}
+        - {x: 1, y: 75}
+        - {x: -4, y: 70}
+        - {x: -16, y: 59}
+        - {x: -14, y: 41}
+        - {x: -4, y: 33}
+        - {x: 0, y: 17}
+        - {x: -11, y: -2}
+        - {x: -25, y: -10}
+        - {x: -29, y: -17}
+        - {x: -46, y: -21}
+        - {x: -55, y: -32}
+        - {x: -54, y: -41}
+        - {x: -53, y: -45}
+        - {x: -67, y: -51}
+        - {x: -67, y: -61}
+        - {x: -61, y: -65}
+        - {x: -43, y: -72}
+        - {x: -39, y: -73}
+        - {x: -31, y: -73}
+        - {x: -20, y: -70}
+        - {x: -7, y: -65}
+        - {x: 6, y: -75}
+        - {x: 41, y: -75}
+        - {x: 49, y: -74}
+        - {x: 62, y: -69}
+        - {x: 68, y: -58}
+        - {x: 68, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e83dbdeab5844c39f4351c6f4203906
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 75}
+        - {x: -22, y: 75}
+        - {x: 75, y: 75}
+        - {x: 75, y: -75}
+        - {x: -66, y: -75}
+        - {x: -75, y: -67}
+        - {x: -75, y: 21}
+        - {x: -48, y: 71}
+        - {x: -52, y: 71}
+        - {x: -54, y: 74}
+        - {x: -54, y: 75}
+      physicsShape:
+      - - {x: 69, y: -36}
+        - {x: 55, y: -20}
+        - {x: 45, y: -7}
+        - {x: 43, y: 10}
+        - {x: 55, y: 28}
+        - {x: 54, y: 40}
+        - {x: 66, y: 46}
+        - {x: 62, y: 61}
+        - {x: 54, y: 63}
+        - {x: 42, y: 60}
+        - {x: 34, y: 71}
+        - {x: 16, y: 72}
+        - {x: 3, y: 75}
+        - {x: 0, y: 75}
+        - {x: -3, y: 72}
+        - {x: -4, y: 68}
+        - {x: -1, y: 64}
+        - {x: -10, y: 62}
+        - {x: -16, y: 58}
+        - {x: -15, y: 55}
+        - {x: -14, y: 40}
+        - {x: -4, y: 33}
+        - {x: 1, y: 17}
+        - {x: -9, y: 2}
+        - {x: -23, y: -8}
+        - {x: -53, y: -25}
+        - {x: -56, y: -29}
+        - {x: -58, y: -37}
+        - {x: -56, y: -45}
+        - {x: -68, y: -51}
+        - {x: -68, y: -61}
+        - {x: -45, y: -74}
+        - {x: -23, y: -73}
+        - {x: -14, y: -66}
+        - {x: -8, y: -61}
+        - {x: 0, y: -71}
+        - {x: 8, y: -75}
+        - {x: 45, y: -75}
+        - {x: 64, y: -69}
+        - {x: 69, y: -58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b84a0f1eb4162a76b522800dc37cb
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -75}
+        - {x: -75, y: -75}
+        - {x: -75, y: 12}
+        - {x: -70, y: 53}
+        - {x: -52, y: 75}
+        - {x: 66, y: 75}
+        - {x: 75, y: 73}
+      physicsShape:
+      - - {x: 70, y: -37}
+        - {x: 59, y: -22}
+        - {x: 38, y: -14}
+        - {x: 44, y: 2}
+        - {x: 44, y: 11}
+        - {x: 45, y: 19}
+        - {x: 63, y: 31}
+        - {x: 60, y: 46}
+        - {x: 66, y: 57}
+        - {x: 55, y: 69}
+        - {x: 39, y: 65}
+        - {x: 34, y: 72}
+        - {x: 26, y: 74}
+        - {x: 14, y: 72}
+        - {x: -2, y: 75}
+        - {x: -8, y: 70}
+        - {x: -17, y: 53}
+        - {x: -9, y: 47}
+        - {x: -19, y: 47}
+        - {x: -19, y: 58}
+        - {x: -22, y: 75}
+        - {x: -33, y: 75}
+        - {x: -42, y: 66}
+        - {x: -40, y: 60}
+        - {x: -37, y: 53}
+        - {x: -24, y: 25}
+        - {x: -6, y: 0}
+        - {x: -5, y: -12}
+        - {x: -26, y: -8}
+        - {x: -29, y: -17}
+        - {x: -44, y: -19}
+        - {x: -53, y: -28}
+        - {x: -51, y: -31}
+        - {x: -48, y: -31}
+        - {x: -51, y: -37}
+        - {x: -53, y: -42}
+        - {x: -51, y: -44}
+        - {x: -40, y: -53}
+        - {x: -57, y: -45}
+        - {x: -71, y: -51}
+        - {x: -71, y: -62}
+        - {x: -70, y: -63}
+        - {x: -53, y: -73}
+        - {x: -37, y: -75}
+        - {x: -32, y: -75}
+        - {x: -14, y: -66}
+        - {x: -5, y: -66}
+        - {x: 5, y: -75}
+        - {x: 44, y: -75}
+        - {x: 60, y: -70}
+        - {x: 68, y: -61}
+        - {x: 70, y: -53}
+      - - {x: 3, y: 24}
+        - {x: 3, y: 29}
+        - {x: 2, y: 29}
+        - {x: 4, y: 23}
+        - {x: 6, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592ec53bf834a4f966d15ac8d3e5114
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 450
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -75}
+        - {x: -75, y: -69}
+        - {x: -75, y: 3}
+        - {x: -32, y: 75}
+        - {x: 75, y: 75}
+        - {x: 75, y: -75}
+      physicsShape:
+      - - {x: 68, y: -35}
+        - {x: 55, y: -20}
+        - {x: 44, y: -13}
+        - {x: 42, y: -5}
+        - {x: 40, y: 6}
+        - {x: 34, y: 16}
+        - {x: 47, y: 23}
+        - {x: 51, y: 27}
+        - {x: 60, y: 50}
+        - {x: 53, y: 62}
+        - {x: 39, y: 61}
+        - {x: 34, y: 67}
+        - {x: 28, y: 72}
+        - {x: 20, y: 71}
+        - {x: 7, y: 75}
+        - {x: -5, y: 75}
+        - {x: -9, y: 73}
+        - {x: -9, y: 66}
+        - {x: -20, y: 61}
+        - {x: -15, y: 42}
+        - {x: -5, y: 27}
+        - {x: -4, y: 13}
+        - {x: -11, y: -3}
+        - {x: -13, y: -9}
+        - {x: -29, y: -5}
+        - {x: -32, y: -15}
+        - {x: -43, y: -15}
+        - {x: -56, y: -25}
+        - {x: -55, y: -38}
+        - {x: -53, y: -44}
+        - {x: -45, y: -55}
+        - {x: -57, y: -48}
+        - {x: -68, y: -49}
+        - {x: -72, y: -53}
+        - {x: -72, y: -59}
+        - {x: -69, y: -65}
+        - {x: -46, y: -73}
+        - {x: -39, y: -75}
+        - {x: -34, y: -75}
+        - {x: -15, y: -68}
+        - {x: -9, y: -61}
+        - {x: -4, y: -69}
+        - {x: 6, y: -75}
+        - {x: 46, y: -75}
+        - {x: 51, y: -73}
+        - {x: 62, y: -68}
+        - {x: 68, y: -61}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74921a28af5a4bd9a9a42a8894f6cc34
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -75}
+        - {x: -75, y: -75}
+        - {x: -75, y: -29}
+        - {x: -24, y: 68}
+        - {x: -13, y: 75}
+        - {x: 67, y: 75}
+        - {x: 75, y: 30}
+      physicsShape:
+      - - {x: 68, y: -39}
+        - {x: 65, y: -32}
+        - {x: 57, y: -23}
+        - {x: 45, y: -10}
+        - {x: 38, y: 10}
+        - {x: 32, y: 16}
+        - {x: 50, y: 21}
+        - {x: 54, y: 36}
+        - {x: 62, y: 46}
+        - {x: 58, y: 62}
+        - {x: 41, y: 62}
+        - {x: 34, y: 70}
+        - {x: 23, y: 71}
+        - {x: 13, y: 73}
+        - {x: 4, y: 75}
+        - {x: -3, y: 75}
+        - {x: -7, y: 67}
+        - {x: -17, y: 59}
+        - {x: -18, y: 56}
+        - {x: -15, y: 42}
+        - {x: -4, y: 26}
+        - {x: -3, y: 14}
+        - {x: -12, y: -7}
+        - {x: -27, y: -7}
+        - {x: -30, y: -16}
+        - {x: -41, y: -18}
+        - {x: -46, y: -20}
+        - {x: -54, y: -26}
+        - {x: -57, y: -42}
+        - {x: -39, y: -53}
+        - {x: -52, y: -49}
+        - {x: -66, y: -48}
+        - {x: -70, y: -53}
+        - {x: -70, y: -59}
+        - {x: -67, y: -64}
+        - {x: -44, y: -74}
+        - {x: -26, y: -73}
+        - {x: -12, y: -64}
+        - {x: 8, y: -75}
+        - {x: 44, y: -75}
+        - {x: 56, y: -72}
+        - {x: 66, y: -65}
+        - {x: 68, y: -57}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372d201670a42aaa2daed6a0dc96556
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 134.8506
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5561709, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.42532, y: 72}
+        - {x: -34.42532, y: 75}
+        - {x: -13.42532, y: 75}
+        - {x: -13.42532, y: 74}
+        - {x: -15.42532, y: 72}
+      - - {x: 65.57468, y: 71}
+        - {x: 5.574677, y: 71}
+        - {x: 5.574677, y: 75}
+        - {x: 67.57468, y: 75}
+        - {x: 67.57468, y: 73}
+      - - {x: -64.42532, y: -63}
+        - {x: -67.42532, y: -64}
+        - {x: -67.42532, y: -57}
+        - {x: -66.42532, y: -57}
+        - {x: -64.42532, y: -59}
+      - - {x: -64.42532, y: -56}
+        - {x: -67.42532, y: -57}
+        - {x: -67.42532, y: -34}
+        - {x: -66.42532, y: -34}
+        - {x: -64.42532, y: -36}
+      - - {x: -38.42532, y: -75}
+        - {x: -39.42532, y: -67}
+        - {x: -39.42532, y: 19}
+        - {x: -34.42532, y: 21}
+        - {x: 44.57468, y: 21}
+        - {x: 45.57468, y: 20}
+        - {x: 45.57468, y: -75}
+      physicsShape:
+      - - {x: 1.574677, y: -9}
+        - {x: 0.5746765, y: -10}
+        - {x: -10.42532, y: -27}
+        - {x: -10.42532, y: -57}
+        - {x: 9.574677, y: -57}
+        - {x: 9.574677, y: -18}
+        - {x: 6.574677, y: -9}
+      - - {x: -23.42532, y: -27}
+        - {x: -24.42532, y: -33}
+        - {x: -24.42532, y: -52}
+        - {x: -21.42532, y: -54}
+        - {x: -16.42532, y: -54}
+        - {x: -16.42532, y: -28}
+        - {x: -17.42532, y: -27}
+      - - {x: -16.42532, y: -48}
+        - {x: -14.42532, y: -50}
+        - {x: -11.42532, y: -49}
+        - {x: -11.42532, y: -44}
+        - {x: -13.42532, y: -42}
+        - {x: -16.42532, y: -43}
+      - - {x: 34.57468, y: -20}
+        - {x: 31.57468, y: -20}
+        - {x: 30.57468, y: -22}
+        - {x: 17.57468, y: -24}
+        - {x: 15.57468, y: -32}
+        - {x: 15.57468, y: -50}
+        - {x: 36.57468, y: -50}
+        - {x: 38.57468, y: -43}
+        - {x: 38.57468, y: -23}
+      - - {x: 10.57468, y: -31}
+        - {x: 12.57468, y: -33}
+        - {x: 15.57468, y: -32}
+        - {x: 15.57468, y: -29}
+        - {x: 13.57468, y: -27}
+        - {x: 10.57468, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef834e86b08243219cdf5c86f74f14ce
+      internalID: 21300022
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 75}
+        - {x: -31, y: 75}
+        - {x: 52, y: 75}
+        - {x: 67, y: 35}
+        - {x: 75, y: -2}
+        - {x: 75, y: -75}
+        - {x: -75, y: -75}
+        - {x: -75, y: 69}
+        - {x: -69, y: 75}
+      physicsShape:
+      - - {x: 74, y: -39}
+        - {x: 73, y: -33}
+        - {x: 65, y: -22}
+        - {x: 52, y: -16}
+        - {x: 44, y: -12}
+        - {x: 42, y: 1}
+        - {x: 25, y: 15}
+        - {x: 31, y: 19}
+        - {x: 38, y: 24}
+        - {x: 38, y: 34}
+        - {x: 49, y: 39}
+        - {x: 50, y: 43}
+        - {x: 47, y: 52}
+        - {x: 44, y: 55}
+        - {x: 32, y: 54}
+        - {x: 22, y: 67}
+        - {x: 1, y: 70}
+        - {x: -8, y: 74}
+        - {x: -13, y: 74}
+        - {x: -28, y: 66}
+        - {x: -28, y: 42}
+        - {x: -22, y: 34}
+        - {x: -24, y: 32}
+        - {x: -24, y: 30}
+        - {x: -24, y: 34}
+        - {x: -26, y: 36}
+        - {x: -27, y: 36}
+        - {x: -38, y: 28}
+        - {x: -42, y: 30}
+        - {x: -45, y: 27}
+        - {x: -43, y: 20}
+        - {x: -48, y: 29}
+        - {x: -58, y: 43}
+        - {x: -62, y: 42}
+        - {x: -63, y: 32}
+        - {x: -63, y: 23}
+        - {x: -60, y: 15}
+        - {x: -57, y: 9}
+        - {x: -55, y: 7}
+        - {x: -47, y: 6}
+        - {x: -41, y: 14}
+        - {x: -37, y: 3}
+        - {x: -34, y: -2}
+        - {x: -27, y: -11}
+        - {x: -23, y: -16}
+        - {x: -40, y: -20}
+        - {x: -46, y: -30}
+        - {x: -42, y: -32}
+        - {x: -52, y: -35}
+        - {x: -57, y: -48}
+        - {x: -56, y: -43}
+        - {x: -60, y: -53}
+        - {x: -60, y: -61}
+        - {x: -35, y: -73}
+        - {x: -17, y: -72}
+        - {x: -5, y: -66}
+        - {x: 3, y: -71}
+        - {x: 13, y: -75}
+        - {x: 42, y: -75}
+        - {x: 64, y: -70}
+        - {x: 71, y: -63}
+        - {x: 74, y: -49}
+      - - {x: -38, y: -52}
+        - {x: -31, y: -52}
+        - {x: -32, y: -53}
+        - {x: -36, y: -53}
+        - {x: -36, y: -52}
+      - - {x: 22, y: -9}
+        - {x: 22, y: -3}
+        - {x: 27, y: -8}
+        - {x: 28, y: -10}
+        - {x: 26, y: -9}
+      - - {x: -41, y: 8}
+        - {x: -38, y: 9}
+        - {x: -38, y: 12}
+        - {x: -41, y: 13}
+        - {x: -43, y: 11}
+      - - {x: -20, y: 14}
+        - {x: -17, y: 21}
+        - {x: -17, y: 22}
+        - {x: -20, y: 27}
+        - {x: -18, y: 29}
+        - {x: -19, y: 25}
+        - {x: -17, y: 22}
+        - {x: -17, y: 20}
+        - {x: -15, y: 16}
+        - {x: -19, y: 12}
+        - {x: -18, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491ac732c75b4248850a6e13108fbd27
+      internalID: 21300024
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 75}
+        - {x: -22, y: 75}
+        - {x: 64, y: 75}
+        - {x: 75, y: 68}
+        - {x: 75, y: -75}
+        - {x: -75, y: -75}
+        - {x: -75, y: -20}
+        - {x: -54, y: 72}
+        - {x: -54, y: 72}
+        - {x: -55, y: 75}
+      physicsShape:
+      - - {x: 55, y: -20}
+        - {x: 45, y: -7}
+        - {x: 43, y: 10}
+        - {x: 55, y: 24}
+        - {x: 55, y: 38}
+        - {x: 66, y: 46}
+        - {x: 61, y: 60}
+        - {x: 57, y: 63}
+        - {x: 43, y: 61}
+        - {x: 36, y: 70}
+        - {x: 25, y: 71}
+        - {x: 1, y: 75}
+        - {x: -3, y: 72}
+        - {x: -4, y: 68}
+        - {x: -1, y: 64}
+        - {x: -10, y: 62}
+        - {x: -16, y: 58}
+        - {x: -15, y: 55}
+        - {x: -14, y: 40}
+        - {x: -1, y: 25}
+        - {x: -2, y: 13}
+        - {x: -44, y: -20}
+        - {x: -53, y: -25}
+        - {x: -56, y: -29}
+        - {x: -58, y: -37}
+        - {x: -42, y: -53}
+        - {x: -55, y: -48}
+        - {x: -67, y: -50}
+        - {x: -69, y: -57}
+        - {x: -69, y: -59}
+        - {x: -66, y: -63}
+        - {x: -42, y: -74}
+        - {x: -32, y: -73}
+        - {x: -24, y: -72}
+        - {x: -14, y: -66}
+        - {x: -8, y: -61}
+        - {x: 3, y: -73}
+        - {x: 11, y: -75}
+        - {x: 44, y: -75}
+        - {x: 61, y: -71}
+        - {x: 69, y: -62}
+        - {x: 69, y: -34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65347cbb3294a8ca6ada1a260d71598
+      internalID: 21300026
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 150
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 75}
+        - {x: -24, y: 75}
+        - {x: 71, y: 75}
+        - {x: 75, y: 73}
+        - {x: 75, y: -75}
+        - {x: -75, y: -75}
+        - {x: -75, y: 33}
+        - {x: -53, y: 75}
+      physicsShape:
+      - - {x: 71, y: -55}
+        - {x: 71, y: -36}
+        - {x: 67, y: -30}
+        - {x: 58, y: -22}
+        - {x: 53, y: -19}
+        - {x: 45, y: -5}
+        - {x: 29, y: 17}
+        - {x: 40, y: 22}
+        - {x: 45, y: 27}
+        - {x: 57, y: 45}
+        - {x: 56, y: 49}
+        - {x: 51, y: 61}
+        - {x: 34, y: 60}
+        - {x: 30, y: 69}
+        - {x: 8, y: 75}
+        - {x: -12, y: 75}
+        - {x: -8, y: 64}
+        - {x: -19, y: 64}
+        - {x: -22, y: 60}
+        - {x: -22, y: 58}
+        - {x: -21, y: 42}
+        - {x: -11, y: 35}
+        - {x: -11, y: 15}
+        - {x: -16, y: -1}
+        - {x: -23, y: -10}
+        - {x: -34, y: -16}
+        - {x: -49, y: -27}
+        - {x: -48, y: -34}
+        - {x: -63, y: -52}
+        - {x: -63, y: -62}
+        - {x: -40, y: -74}
+        - {x: -20, y: -72}
+        - {x: -7, y: -66}
+        - {x: 10, y: -75}
+        - {x: 40, y: -75}
+        - {x: 44, y: -74}
+        - {x: 61, y: -70}
+        - {x: 69, y: -63}
+      - - {x: -47, y: -50}
+        - {x: -42, y: -50}
+        - {x: -41, y: -49}
+        - {x: -40, y: -49}
+        - {x: -41, y: -50}
+        - {x: -38, y: -53}
+        - {x: -34, y: -53}
+        - {x: -40, y: -53}
+        - {x: -40, y: -52}
+      - - {x: 27, y: -11}
+        - {x: 28, y: -9}
+        - {x: 27, y: -7}
+        - {x: 29, y: -9}
+        - {x: 29, y: -12}
+        - {x: 28, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75704dbd8d943b1bf3744cabc76285c
+      internalID: 21300028
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy7002_motion_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 72}
+        - {x: -43, y: 75}
+        - {x: -16, y: 75}
+        - {x: -16, y: 74}
+        - {x: -18, y: 72}
+      - - {x: 54, y: 71}
+        - {x: -4, y: 71}
+        - {x: -4, y: 75}
+        - {x: 54, y: 75}
+      - - {x: -73, y: -71}
+        - {x: -75, y: -62}
+        - {x: -75, y: -16}
+        - {x: -52, y: 37}
+        - {x: 48, y: 37}
+        - {x: 75, y: 19}
+        - {x: 75, y: -75}
+        - {x: -65, y: -75}
+      physicsShape:
+      - - {x: 62, y: -24}
+        - {x: 54, y: -21}
+        - {x: 32, y: -15}
+        - {x: 22, y: -8}
+        - {x: 15, y: -7}
+        - {x: 5, y: -14}
+        - {x: -12, y: -5}
+        - {x: -17, y: -2}
+        - {x: -22, y: 8}
+        - {x: -33, y: 8}
+        - {x: -39, y: 6}
+        - {x: -40, y: 4}
+        - {x: -41, y: -7}
+        - {x: -53, y: -11}
+        - {x: -58, y: -18}
+        - {x: -61, y: -27}
+        - {x: -70, y: -41}
+        - {x: -70, y: -48}
+        - {x: -63, y: -52}
+        - {x: -63, y: -57}
+        - {x: -59, y: -66}
+        - {x: -39, y: -68}
+        - {x: -22, y: -72}
+        - {x: 21, y: -72}
+        - {x: 31, y: -75}
+        - {x: 51, y: -75}
+        - {x: 71, y: -64}
+        - {x: 72, y: -59}
+        - {x: 72, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03d7f1d58d74712b6c3dcf399dac1b1
+      internalID: 21300030
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
