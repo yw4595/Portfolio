@@ -1,0 +1,3 @@
+机体ID,机体名称,机体耐久,索敌性能,隐身性能,可控性,引擎性能,俯仰性能,翻滚性能,偏航性能,加速性能,减速性能,最大出力,最小出力,模组
+fighterId,fighterName,durability,radarPerformance,stealthPerformance,controllability,engineOutput,pitchPerformance,rollPerformance,yawPerformance,accelerationPerformance,decelerationPerformance,engineMaxOutput,engineMixOutput,fighterModule
+1000,实验机,500,100,100,10,100,0.01,0.01,5,0.5,0.1,150,50,
