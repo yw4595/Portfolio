@@ -1,0 +1,4 @@
+﻿Start开始游戏，Quit结束游戏\n控制方向：鼠标\n油门：W  刹车：S\n发射导弹：Space\n导弹只有在锁定后才会跟踪\n敌机指向：Tab\n切换摄像机：C\n\n游戏目标：击落所有敌人=Start the game, Quit ends the game Control Direction: Mouse Accelerator: W Brake: S Launches Missile: Space Missile Tracking Enemy Direction: Tab Switch Camera: C\r\n\r\nGoal: Shoot down all enemies.
+创建敌机数量=Create Enemy Count
+反转Y轴=inverted Y-axis
+矢量输入=vector input
